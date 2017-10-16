@@ -1,0 +1,5 @@
+https://msdn.microsoft.com/en-us/data/jj591621
+
+PM> Enable-Migrations -ContextTypeName _eway.Models.ApplicationDbContext (el context depende de cada caso)
+PM> Add-Migration "Add user role" (o la descripcion que queramos)
+PM> Update-Database

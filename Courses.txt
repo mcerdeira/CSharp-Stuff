@@ -1,0 +1,4 @@
+https://mva.microsoft.com/en-us/training-courses/introduction-to-asp-net-mvc-8322?l=wCf1NAay_9804984382
+http://www.cjorellana.net/2015/01/datepicker-con-mvc-5-razor.html
+
+https://stackoverflow.com/questions/19973176/can-mvc-5-scaffolding-not-add-selectlist-for-many-many-relations-add-scaffold

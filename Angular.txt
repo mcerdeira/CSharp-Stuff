@@ -1,0 +1,6 @@
+https://angular.io/tutorial/toh-pt6
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+https://www.timeanddate.com/countdown/generic?iso=20170905T18&p0=51&font=cursive
+
+https://www.campusmvp.es/recursos/post/las-10-principales-diferencias-entre-angularjs-y-angular.aspx
